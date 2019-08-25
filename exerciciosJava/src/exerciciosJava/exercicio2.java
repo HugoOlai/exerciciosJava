@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class exercicio2 {
 	static double f, c;
-	static Scanner s = new Scanner(System.in);;
+	static Scanner s = new Scanner(System.in);
 	
 	public static void calculartemperatura() {
 				
